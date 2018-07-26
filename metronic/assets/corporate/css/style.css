@@ -28,7 +28,7 @@ h1 {
 Fix link outlines after click
 ***/
 a {
-	color: #E02222;
+	color: #551a8b;
 }
 a, a:focus, a:hover, a:active {
 	outline: 0;
