@@ -279,7 +279,8 @@ a:hover {
 
 
 .require {
-	color: #e94d1c;
+	 color: #e94d1c; 
+	/* color: white; */
 }
 .content-form-page .form-control:focus {
 	border: solid 1px #e94d1c;

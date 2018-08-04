@@ -238,7 +238,7 @@ p {
 }
 h4 {
   line-height: 1.5 !important;
-  color: #fff;
+/* color: white; */
 }
 .article-entry p,
 .article-entry li {
