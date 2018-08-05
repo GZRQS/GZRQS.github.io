@@ -23,8 +23,8 @@ var Portfolio = function () {
 
       $(".mix-filter, .back").click(function(){
 	$(".mix_all").removeClass("col-xs-12");
-	$(".mix_all").addClass("col-sm-6");
-	$(".mix_all").addClass("col-md-4");
+	//$(".mix_all").addClass("col-sm-6");
+	//$(".mix_all").addClass("col-md-4");
 	$(".mix-info").hide();
 	$(".mix-details").show();
 	$(".mix-grid").children().show();
