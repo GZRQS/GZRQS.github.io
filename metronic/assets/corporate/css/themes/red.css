@@ -1,5 +1,10 @@
 a {
-	color: #E02222;
+	color: black;
+}
+table.table-color-control {
+	border-bottom: 1px solid black;
+	width: 100%;
+
 }
 a:hover {
 	color: #E02222;
