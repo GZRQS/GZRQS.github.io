@@ -455,7 +455,7 @@ body.page-header-fixed {
 
 .site-logo {
   float: left;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 400;
 
   /*margin-right: 67px;*/
@@ -468,18 +468,18 @@ body.page-header-fixed {
   color: #D8D8D8;
   border: 1px solid #D8D8D8;
   border-radius: 100% !important;
-  width: 32px;
-  height: 32px;
+  width: 28px;
+  height: 28px;
   display: none;
   margin:10px 0 0 0px;
   position: relative;
-  background: #fff url(../img/icons/toggler.png) no-repeat 6px 8px;
+  background: #fff url(../img/icons/toggler.png) no-repeat 4px 6px;
 }
 .header .mobi-toggler i {
   display: none;
 }
 .header .mobi-toggler:hover {
-  background: #e34f00 url(../img/icons/toggler.png) no-repeat 6px -28px;
+  background: #e34f00 url(../img/icons/toggler.png) no-repeat 4px -30px;
   border-color: #e34f00;
   color: #fff;
 }
