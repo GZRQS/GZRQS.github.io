@@ -1,11 +1,6 @@
 /*   
 Template Name: Metronic - Responsive Website Template build with Twitter Bootstrap 3.1.1
 */
-.map-control {
-	height:400px !important;
-}
-
-
 
 /* General body settings */
 body { 
@@ -24,6 +19,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	margin-bottom: 15px;
+}
+h3 {
+	text-align: center;
 }
 .main h1 {
 	margin-top: -6px;
@@ -457,12 +455,12 @@ body.page-header-fixed {
 
 .site-logo {
   float: left;
-  font-size: 23px;
+  font-size: 16px;
   font-weight: 400;
 
-  margin-right: 67px;
-  padding-top: 22px;
-  padding-bottom: 22px;
+  /*margin-right: 67px;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .header .mobi-toggler {
@@ -473,7 +471,7 @@ body.page-header-fixed {
   width: 32px;
   height: 32px;
   display: none;
-  margin: 25px 0 0 30px;
+  margin:10px 0 0 0px;
   position: relative;
   background: #fff url(../img/icons/toggler.png) no-repeat 6px 8px;
 }
@@ -505,7 +503,7 @@ body.page-header-fixed {
 .header-navigation > ul > li > a {
 	color: #333;
 	display: block;	
-	padding: 29px 12px 30px;
+	padding: 10px 12px 10px;
 }
 .header-navigation ul > li.active > a,
 .header-navigation ul > li > a:hover,
@@ -696,7 +694,7 @@ body.page-header-fixed {
 /* Top Search */
 .header-navigation li.menu-search {
 	position: relative;
-	top: 26px;
+	top: 6px;
 }
 .header-navigation li.menu-search span.sep {
 	top: 0;
@@ -772,13 +770,13 @@ body.page-header-fixed {
 }
 @media (min-width: 1025px) {
 	.reduce-header .header-navigation > ul > li > a {
-		padding: 16px 12px 17px;
+		padding: 10px 12px 10px;
 	}
 	.ecommerce .reduce-header .header-navigation > ul > li > a {
 		padding: 23px 12px 20px;
 	}
 	.reduce-header .header-navigation li.menu-search {
-		top: 14px;
+		top: 6px;
 	}
 	.ecommerce .reduce-header .header-navigation li.menu-search {
 		top: 21px;
